@@ -1,6 +1,6 @@
 # Mossosouk Web Services Website Project
 
-This is a static website that introduce MWS. [Click here](https://www.mws.mossosouk.com) to visite the live version.
+This is a static website that introduce MWS. [Click here](https://mws.mossosouk.com) to visite the live version.
 
 ## Table of contents
 
@@ -88,7 +88,7 @@ Here is where we have to make the difference. Core features to implement are:
 
 ## Links
 
-The links to different resources that inspire me for the design and development:
+Here are some links to different resources that inspire me for the design and development:
 
 - [Design Course](https://designcourse.com) - viewport and general styling
 - [Paperpillar](https://paperpillar.com) - lightweight style and **clients** section
